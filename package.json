@@ -1,5 +1,5 @@
 {
-  "name": "passport-firebase-auth",
+  "name": "passport-firebase-authentication",
   "version": "0.0.0-beta.1",
   "description": "Firebase Strategy",
   "main": "lib/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bambusoideae/passport-firebase-auth.git"
+    "url": "git+https://github.com/fmbm/passport-firebase-authentication.git"
   },
   "keywords": [
     "firebase",
@@ -20,11 +20,10 @@
   "author": "bambusoideae",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bambusoideae/passport-firebase-auth/issues"
+    "url": "https://github.com/fmbm/passport-firebase-authentication/issues"
   },
-  "homepage": "https://github.com/bambusoideae/passport-firebase-auth#readme",
+  "homepage": "https://github.com/fmbm/passport-firebase-authentication#readme",
   "dependencies": {
-    "firebase": "^3.4.1",
     "passport-strategy": "1.x.x",
     "uid2": "0.0.x"
   },
