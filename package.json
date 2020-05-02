@@ -1,6 +1,6 @@
 {
   "name": "passport-firebase-authentication",
-  "version": "0.0.0-beta.1",
+  "version": "1.0.0",
   "description": "Firebase Strategy",
   "main": "lib/index.js",
   "scripts": {
